@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/PawnKindDefs/PawnKinds_SecuirityForce.xml-->
+                        <!-- soldier -->
+<Polarisbloc_SFSoldier.label>soldier</Polarisbloc_SFSoldier.label>
+                              <!-- Plural soldier -->
+<Polarisbloc_SFSoldier.labelPlural>Plural soldier</Polarisbloc_SFSoldier.labelPlural>
+                            <!-- Male soldier -->
+<Polarisbloc_SFSoldier.labelMale>Male soldier</Polarisbloc_SFSoldier.labelMale>
+                                  <!-- Male Plural soldier -->
+<Polarisbloc_SFSoldier.labelMalePlural>Male Plural soldier</Polarisbloc_SFSoldier.labelMalePlural>
+                              <!-- Female soldier -->
+<Polarisbloc_SFSoldier.labelFemale>Female soldier</Polarisbloc_SFSoldier.labelFemale>
+                                    <!-- Female Plural soldier -->
+<Polarisbloc_SFSoldier.labelFemalePlural>Female Plural soldier</Polarisbloc_SFSoldier.labelFemalePlural>
+                        <!-- captain -->
+<Polarisbloc_SFCaptain.label>captain</Polarisbloc_SFCaptain.label>
+                              <!-- Plural captain -->
+<Polarisbloc_SFCaptain.labelPlural>Plural captain</Polarisbloc_SFCaptain.labelPlural>
+                            <!-- Male captain -->
+<Polarisbloc_SFCaptain.labelMale>Male captain</Polarisbloc_SFCaptain.labelMale>
+                                  <!-- Male Plural captain -->
+<Polarisbloc_SFCaptain.labelMalePlural>Male Plural captain</Polarisbloc_SFCaptain.labelMalePlural>
+                              <!-- Female captain -->
+<Polarisbloc_SFCaptain.labelFemale>Female captain</Polarisbloc_SFCaptain.labelFemale>
+                                    <!-- Female Plural captain -->
+<Polarisbloc_SFCaptain.labelFemalePlural>Female Plural captain</Polarisbloc_SFCaptain.labelFemalePlural>
+                          <!-- commander -->
+<Polarisbloc_SFCommander.label>commander</Polarisbloc_SFCommander.label>
+                                <!-- Plural commander -->
+<Polarisbloc_SFCommander.labelPlural>Plural commander</Polarisbloc_SFCommander.labelPlural>
+                              <!-- Male commander -->
+<Polarisbloc_SFCommander.labelMale>Male commander</Polarisbloc_SFCommander.labelMale>
+                                    <!-- Male Plural commander -->
+<Polarisbloc_SFCommander.labelMalePlural>Male Plural commander</Polarisbloc_SFCommander.labelMalePlural>
+                                <!-- Female commander -->
+<Polarisbloc_SFCommander.labelFemale>Female commander</Polarisbloc_SFCommander.labelFemale>
+                                      <!-- Female Plural commander -->
+<Polarisbloc_SFCommander.labelFemalePlural>Female Plural commander</Polarisbloc_SFCommander.labelFemalePlural>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/StorytellerDefs/StorytellersPSF.xml-->
+                    <!-- Erica -->
+<Polarisbloc_Erica.label>Erica</Polarisbloc_Erica.label>
+                          <!-- Erica is the child of a noble family of the core world. Erica likes the sudden setbacks in plain stories, which she finds interesting. -->
+<Polarisbloc_Erica.description>Erica is the child of a noble family of the core world. Erica likes the sudden setbacks in plain stories, which she finds interesting.</Polarisbloc_Erica.description>
+                                                                         <!-- Yeoman -->
+<Polarisbloc_Erica.comps.StorytellerComp_RandomMain.skipIfColonistHasMinTitle>Yeoman</Polarisbloc_Erica.comps.StorytellerComp_RandomMain.skipIfColonistHasMinTitle>
+
+</LanguageData>

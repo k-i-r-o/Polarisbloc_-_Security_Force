@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs/Apparel_Polarisbloc.xml-->
+                        <!-- cygnus gel -->
+<Polarisbloc_CygnusGel.label>cygnus gel</Polarisbloc_CygnusGel.label>
+                              <!-- A gel that repairs body tissues. -->
+<Polarisbloc_CygnusGel.description>A gel that repairs body tissues.</Polarisbloc_CygnusGel.description>
+                             <!-- cygnus gel (solid) -->
+<Polarisbloc_CygnusGelSolid.label>cygnus gel (solid)</Polarisbloc_CygnusGelSolid.label>
+                                 <!-- cygnus gel (solid) -->
+<Polarisbloc_CygnusGelSolid.labelNoun>cygnus gel (solid)</Polarisbloc_CygnusGelSolid.labelNoun>
+                                   <!-- A gel that has temporarily cured will re-liquefy after a period of time. -->
+<Polarisbloc_CygnusGelSolid.description>A gel that has temporarily cured will re-liquefy after a period of time.</Polarisbloc_CygnusGelSolid.description>
+
+</LanguageData>

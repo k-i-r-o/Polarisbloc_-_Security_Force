@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/FactionDefs/Factions_SecuirityForce.xml-->
+                            <!-- Security Force -->
+<Polaribloc_SecuirityForce.label>Security Force</Polaribloc_SecuirityForce.label>
+                                  <!-- The Security Force, associated with the Polarisbloc, provide security support for the Polarisbloc. At the same time, it is also ordered by Polarisbloc to carry out the untold task. -->
+<Polaribloc_SecuirityForce.description>The Security Force, associated with the Polarisbloc, provide security support for the Polarisbloc. At the same time, it is also ordered by Polarisbloc to carry out the untold task.</Polaribloc_SecuirityForce.description>
+                                   <!-- Soldier -->
+<Polaribloc_SecuirityForce.pawnSingular>Soldier</Polaribloc_SecuirityForce.pawnSingular>
+                                  <!-- Soldiers -->
+<Polaribloc_SecuirityForce.pawnsPlural>Soldiers</Polaribloc_SecuirityForce.pawnsPlural>
+                                  <!-- Commander -->
+<Polaribloc_SecuirityForce.leaderTitle>Commander</Polaribloc_SecuirityForce.leaderTitle>
+                                <!-- Security Force -->
+<Polaribloc_SecuirityForce.fixedName>Security Force</Polaribloc_SecuirityForce.fixedName>
+
+</LanguageData>

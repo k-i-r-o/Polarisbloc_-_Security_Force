@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs/PolarisShieldMemoryStick.xml-->
+                                                <!-- 
+		<li>questName-&gt;Optional supplies</li>
+ -->
+<PolarisMemoryStickQuest.questNameRules.rulesStrings>
+		<li>questName-&gt;Optional supplies</li>
+</PolarisMemoryStickQuest.questNameRules.rulesStrings>
+                                                       <!-- 
+		<li>questDescription-&gt;A list of supplies from headquarters, please select one you want.
+
+Supplies will be delivered immediately.</li>
+ -->
+<PolarisMemoryStickQuest.questDescriptionRules.rulesStrings>
+		<li>questDescription-&gt;A list of supplies from headquarters, please select one you want.\n\nSupplies will be delivered immediately.</li>
+</PolarisMemoryStickQuest.questDescriptionRules.rulesStrings>
+                                        <!-- rewardValue -->
+<PolarisMemoryStickQuest.root.nodes.Set.name>rewardValue</PolarisMemoryStickQuest.root.nodes.Set.name>
+                                         <!-- $($pointsRewardFactor * $points) -->
+<PolarisMemoryStickQuest.root.nodes.Set.value>$($pointsRewardFactor * $points)</PolarisMemoryStickQuest.root.nodes.Set.value>
+
+</LanguageData>

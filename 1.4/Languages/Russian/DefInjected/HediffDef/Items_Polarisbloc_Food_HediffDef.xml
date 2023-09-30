@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs/Items_Polarisbloc_Food.xml-->
+                            <!-- military rations -->
+<Polarisbloc_EmergencyFood.label>military rations</Polarisbloc_EmergencyFood.label>
+                                  <!-- A liquid food that can quickly restore the physical strength of the eater, with the addition of anti-fatigue components that can effectively improve the combat ability of the eater. -->
+<Polarisbloc_EmergencyFood.description>A liquid food that can quickly restore the physical strength of the eater, with the addition of anti-fatigue components that can effectively improve the combat ability of the eater.</Polarisbloc_EmergencyFood.description>
+
+</LanguageData>

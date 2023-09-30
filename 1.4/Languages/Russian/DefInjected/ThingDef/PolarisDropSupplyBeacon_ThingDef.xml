@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs/PolarisDropSupplyBeacon.xml-->
+                          <!-- polaris supply pack -->
+<PolarisDropSupplyBeacon.label>polaris supply pack</PolarisDropSupplyBeacon.label>
+                                <!-- A supply kit that gives supplies from the Polarisbloc when you active it, giving you a full set of the Security Force's standard soldier equipments. -->
+<PolarisDropSupplyBeacon.description>A supply kit that gives supplies from the Polarisbloc when you active it, giving you a full set of the Security Force's standard soldier equipments.</PolarisDropSupplyBeacon.description>
+                                               <!-- Release the pack -->
+<PolarisDropSupplyBeacon.comps.Comp_Usable.useLabel>Release the pack</PolarisDropSupplyBeacon.comps.Comp_Usable.useLabel>
+
+</LanguageData>

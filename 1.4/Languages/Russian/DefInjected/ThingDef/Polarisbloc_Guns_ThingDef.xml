@@ -2,21 +2,21 @@
 <LanguageData>
 <!--/Defs/ThingDefs/Polarisbloc_Guns.xml-->
                        <!-- charge shot -->
-<Bullet_CaniculaRifle.label>charge shot</Bullet_CaniculaRifle.label>
+<Bullet_CaniculaRifle.label>энергетический выстрел</Bullet_CaniculaRifle.label>
                             <!-- canicula - II universal rifle -->
-<Polarisbloc_CaniculaRifle.label>canicula - II universal rifle</Polarisbloc_CaniculaRifle.label>
+<Polarisbloc_CaniculaRifle.label>каникула - II универсальная винтовка</Polarisbloc_CaniculaRifle.label>
                                   <!-- The universal rifle, produced by Polarisbloc has a specially treated energy release device that can fire bullets that are extremely threatening to live bodies. -->
-<Polarisbloc_CaniculaRifle.description>The universal rifle, produced by Polarisbloc has a specially treated energy release device that can fire bullets that are extremely threatening to live bodies.</Polarisbloc_CaniculaRifle.description>
+<Polarisbloc_CaniculaRifle.description>Универсальная винтовка производства Полярис оснащена специально обработанным устройством для высвобождения энергии, которое может стрелять пулями, чрезвычайно опасными для живых организмов.</Polarisbloc_CaniculaRifle.description>
                                     <!-- stock -->
 <Polarisbloc_CaniculaRifle.tools.0.label>stock</Polarisbloc_CaniculaRifle.tools.0.label>
                                     <!-- barrel -->
 <Polarisbloc_CaniculaRifle.tools.1.label>barrel</Polarisbloc_CaniculaRifle.tools.1.label>
                         <!-- charge shot -->
-<Bullet_CaniculaSniper.label>charge shot</Bullet_CaniculaSniper.label>
+<Bullet_CaniculaSniper.label>энергетический выстрел</Bullet_CaniculaSniper.label>
                              <!-- canicula - III sniper rifle -->
-<Polarisbloc_CaniculaSniper.label>canicula - III sniper rifle</Polarisbloc_CaniculaSniper.label>
+<Polarisbloc_CaniculaSniper.label>каникула - III снайперская винтовка</Polarisbloc_CaniculaSniper.label>
                                    <!-- The sniper rifle, produced by Polarisbloc has a specially treated energy release device that can fire bullets that are extremely threatening to live bodies. -->
-<Polarisbloc_CaniculaSniper.description>The sniper rifle, produced by Polarisbloc has a specially treated energy release device that can fire bullets that are extremely threatening to live bodies.</Polarisbloc_CaniculaSniper.description>
+<Polarisbloc_CaniculaSniper.description>Снайперская винтовка производства Полярис оснащена специально обработанным устройством для высвобождения энергии, которое может стрелять пулями, чрезвычайно опасными для живых организмов.</Polarisbloc_CaniculaSniper.description>
                                      <!-- stock -->
 <Polarisbloc_CaniculaSniper.tools.0.label>stock</Polarisbloc_CaniculaSniper.tools.0.label>
                                      <!-- barrel -->

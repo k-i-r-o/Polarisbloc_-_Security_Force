@@ -2,12 +2,12 @@
 <LanguageData>
 <!--/Defs/ThingDefs/PolarisShieldMemoryStick.xml-->
                            <!-- polaris memory stick -->
-<PolarisShieldMemoryStick.label>polaris memory stick</PolarisShieldMemoryStick.label>
+<PolarisShieldMemoryStick.label>карта памяти Полярис</PolarisShieldMemoryStick.label>
                                  <!-- Used to be the Polarisbloc makes and sells Memory Sticks containing the shield manufacturing technology.
 
 Now the shield tech is publicly available. The memory stick will now send a message to Polarisbloc and you can choose some compensation. -->
-<PolarisShieldMemoryStick.description>Used to be the Polarisbloc makes and sells Memory Sticks containing the shield manufacturing technology.\n\nNow the shield tech is publicly available. The memory stick will now send a message to Polarisbloc and you can choose some compensation.</PolarisShieldMemoryStick.description>
+<PolarisShieldMemoryStick.description>Раньше Полярис производила и продавала карты памяти, содержащие технологию изготовления щита.\n\n Теперь технология щита находится в открытом доступе. Теперь карта памяти отправит сообщение в Полярис, и вы сможете получить некоторую компенсацию.</PolarisShieldMemoryStick.description>
                                                 <!-- Unscramble memory stick -->
-<PolarisShieldMemoryStick.comps.Comp_Usable.useLabel>Unscramble memory stick</PolarisShieldMemoryStick.comps.Comp_Usable.useLabel>
+<PolarisShieldMemoryStick.comps.Comp_Usable.useLabel>Расшифровать карту памяти</PolarisShieldMemoryStick.comps.Comp_Usable.useLabel>
 
 </LanguageData>

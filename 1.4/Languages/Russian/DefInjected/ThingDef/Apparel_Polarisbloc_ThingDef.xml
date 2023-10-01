@@ -2,33 +2,33 @@
 <LanguageData>
 <!--/Defs/ThingDefs/Apparel_Polarisbloc.xml-->
                                <!-- polaris - IV shield belt -->
-<Apparel_PolarisShieldBelt_IV.label>polaris - IV shield belt</Apparel_PolarisShieldBelt_IV.label>
+<Apparel_PolarisShieldBelt_IV.label>защитный пояс Полярис - IV</Apparel_PolarisShieldBelt_IV.label>
                                      <!-- The latest generation of shield from the Polarisbloc, only for important personnel.
 
 The shield will counter attack the attacker if the wearer is attacked. Although the counterattack have a cooling time, be careful, the counterattack is very precise. -->
-<Apparel_PolarisShieldBelt_IV.description>The latest generation of shield from the Polarisbloc, only for important personnel.\n\nThe shield will counter attack the attacker if the wearer is attacked. Although the counterattack have a cooling time, be careful, the counterattack is very precise.</Apparel_PolarisShieldBelt_IV.description>
+<Apparel_PolarisShieldBelt_IV.description>Последнее поколение щита Полярис было выпущено, только для важного персонала.\n\nЭтот щит будет контратаковать атакующих, когда на них нападают. Хотя в контратаке есть время охлаждения, все равно нужно быть осторожным, потому что контратака очень точна.</Apparel_PolarisShieldBelt_IV.description>
                                                           <!-- Child, Adult -->
-<Apparel_PolarisShieldBelt_IV.apparel.developmentalStageFilter>Child, Adult</Apparel_PolarisShieldBelt_IV.apparel.developmentalStageFilter>
+<Apparel_PolarisShieldBelt_IV.apparel.developmentalStageFilter>Ребенок, Взрослый</Apparel_PolarisShieldBelt_IV.apparel.developmentalStageFilter>
                                   <!-- cygnus standard armor -->
-<Polarisbloc_CygnusStandardArmor.label>cygnus standard armor</Polarisbloc_CygnusStandardArmor.label>
+<Polarisbloc_CygnusStandardArmor.label>стандартная броня "Лебедь"</Polarisbloc_CygnusStandardArmor.label>
                                         <!-- The standard Cygnus armor of Security Forces provides a small amount of defensive capabilities and combat attributes. -->
-<Polarisbloc_CygnusStandardArmor.description>The standard Cygnus armor of Security Forces provides a small amount of defensive capabilities and combat attributes.</Polarisbloc_CygnusStandardArmor.description>
+<Polarisbloc_CygnusStandardArmor.description>Стандартная броня сил безопасности "Лебедь" обеспечивает небольшое количество защитных возможностей и боевых атрибутов.</Polarisbloc_CygnusStandardArmor.description>
                                    <!-- cygnus standard armor (captain) -->
-<Polarisbloc_CygnusStandardArmorC.label>cygnus standard armor (captain)</Polarisbloc_CygnusStandardArmorC.label>
+<Polarisbloc_CygnusStandardArmorC.label>стандартная броня "Лебедь" (капитан)</Polarisbloc_CygnusStandardArmorC.label>
                                          <!-- The Captain version of the Cygnus armor is slightly improved of the original, but it is still very limited. -->
-<Polarisbloc_CygnusStandardArmorC.description>The Captain version of the Cygnus armor is slightly improved of the original, but it is still very limited.</Polarisbloc_CygnusStandardArmorC.description>
+<Polarisbloc_CygnusStandardArmorC.description>Капитанская версия брони "Лебедь" немного улучшена по сравнению с оригиналом, но она по-прежнему очень ограничена.</Polarisbloc_CygnusStandardArmorC.description>
                                    <!-- cygnus standard tights -->
-<Polarisbloc_CygnusStandardTights.label>cygnus standard tights</Polarisbloc_CygnusStandardTights.label>
+<Polarisbloc_CygnusStandardTights.label>стандартные шатны "Лебедь"</Polarisbloc_CygnusStandardTights.label>
                                          <!-- The Cygnus tights made of polymer materials contain special life-sustaining devices that can treat the user's wounds in time and promote wound healing. -->
-<Polarisbloc_CygnusStandardTights.description>The Cygnus tights made of polymer materials contain special life-sustaining devices that can treat the user's wounds in time and promote wound healing.</Polarisbloc_CygnusStandardTights.description>
+<Polarisbloc_CygnusStandardTights.description>Шатны "Лебедь", изготовленные из полимерных материалов, содержат специальные жизнеобеспечивающие устройства, которые могут вовремя обработать раны пользователя и способствовать их заживлению.</Polarisbloc_CygnusStandardTights.description>
                                       <!-- Alkaid strategy assistant -->
-<Polarisbloc_AlkaidStrategyAssistant.label>Alkaid strategy assistant</Polarisbloc_AlkaidStrategyAssistant.label>
+<Polarisbloc_AlkaidStrategyAssistant.label>тактический помошник Алькаид</Polarisbloc_AlkaidStrategyAssistant.label>
                                             <!-- The Universal Tactical assistant is a device that can assist the user predict enemy movement trends. -->
-<Polarisbloc_AlkaidStrategyAssistant.description>The Universal Tactical assistant is a device that can assist the user predict enemy movement trends.</Polarisbloc_AlkaidStrategyAssistant.description>
+<Polarisbloc_AlkaidStrategyAssistant.description>Универсальный тактический помощник - это устройство, которое может помочь пользователю предсказать тенденции передвижения противника.</Polarisbloc_AlkaidStrategyAssistant.description>
                                     <!-- Thuban tactical goggles -->
-<Polarisbloc_ThubanTacticalGoggles.label>Thuban tactical goggles</Polarisbloc_ThubanTacticalGoggles.label>
+<Polarisbloc_ThubanTacticalGoggles.label>тактические очки тубан</Polarisbloc_ThubanTacticalGoggles.label>
                                           <!-- The Universal Tactical goggles produced by the Polarisbloc enhance effectively the sight of the user. -->
-<Polarisbloc_ThubanTacticalGoggles.description>The Universal Tactical goggles produced by the Polarisbloc enhance effectively the sight of the user.</Polarisbloc_ThubanTacticalGoggles.description>
+<Polarisbloc_ThubanTacticalGoggles.description>Универсальные тактические очки производства Палярис эффективно улучшают зрение пользователя.</Polarisbloc_ThubanTacticalGoggles.description>
                              <!-- Body Fix Trigger -->
 <Polarisbloc_BodyFixTrigger.label>Body Fix Trigger</Polarisbloc_BodyFixTrigger.label>
                                    <!-- Body Fix Trigger -->
